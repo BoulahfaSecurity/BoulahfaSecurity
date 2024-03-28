@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1>Hi, my name is Salim a <a href="www.linkedin.com/in/salim-boulahfa-807610301">Cybersecurity Professional</a>
 
-<!--
-**BoulahfaSecurity/BoulahfaSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Acrive Directory Homelab]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [JWipe (Disk Wiping Utility)]
+  - [Active Directory Bulk User Creation]
+  - [FIM (File Integrity Monitor)]
+    
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)]
+  - [Ransomware Proof of Concept (Decrypter)]
+  - [Keylogger with Email Capability]
+    
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+
+
+- <b>Certifications</b>
+  - [CompTIA Security+]
+  - [CompTIA SySA+]
+  - [Network+]
+  - [Google Cybersecurity Professional]
+    
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Salim Boulahfa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/salim-boulahfa-807610301
